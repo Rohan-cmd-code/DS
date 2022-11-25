@@ -66,12 +66,12 @@ class RotateArrayRight
     int k =sc.nextInt();
     
     rotate(arr,k);
-		System.out.println("New Array After rotating by K places: ");
+    System.out.println("New Array After rotating by K places: ");
 		
-		for(int i=0; i<arr.length; i++)
-		{
-			System.out.print(arr[i] + " ");
-		}
+    for(int i=0; i<arr.length; i++)
+    {
+	System.out.print(arr[i] + " ");
+    }
  }
     
     
