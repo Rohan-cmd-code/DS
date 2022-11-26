@@ -14,7 +14,7 @@ Explanation: 10 is the largest element in the array. */
 // Auxiliary Space : O(1)
 
 import java.util.*;
-public class LargestElementInArray 
+public class Approach1 
 {
 	public static int largestElement(int arr[])
 	{
