@@ -14,7 +14,7 @@
     */
   
   // Time Complexity: O(m+n)
-	// Auxiliary Space: O(m+n)
+  // Auxiliary Space: O(1)
 
 import java.util.*;
 public class UnionOfTwoSortedArray 
