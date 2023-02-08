@@ -51,3 +51,6 @@ class Solution {
      return -1;
     }
 }
+
+--> Time Complexity : O(n^2)
+--> Auxiliary Space : O(1)
